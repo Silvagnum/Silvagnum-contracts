@@ -4,11 +4,31 @@
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.24-blue)
 ![Hardhat](https://img.shields.io/badge/Built%20with-Hardhat-orange)
 
+
+
 > Official repository containing all smart contracts for the Silvagnum (SVGM) token, a sustainable utility and rewards token on the Polygon network, offering rewards in MATIC (POL), automatic liquidity, and anti-bot mechanisms.
 
+###  Silvagnum Official Links
+* **[🚀 Participate in the IDO](https://silvagnum-dapp-nextjs.vercel.app/)**
+* **[📜 Read the Whitepaper](https://silvagnum-whitepaper.vercel.app/)**
+* **[💬 Join our Discord Community](https://discord.gg/RSf9mAvUd6)**
+  
 ## Overview
 
 Silvagnum is a project focused on creating a sustainable ecosystem of utilities and rewards. This repository contains the heart of the project: the smart contracts that manage tokenomics, reward distribution, liquidity generation, and protocol security.
+
+### ✅ Verified Smart Contracts
+
+| Contract Role | Address on Polygonscan |
+| :--- | :--- |
+| **🪙 Main Token (SVGM)** | [0x204Eb...ba72](https://polygonscan.com/address/0x204Eb12374A591f0caf978fC0A6CFF621F93ba72#code) |
+| **💧 Liquidity Manager** | [0x86093...13d7](https://polygonscan.com/address/0x860931ADc2bbF0B045f0f1bcd451EC088De613d7#code) |
+| **💸 Dividend Distributor**| [0xe9944...5dC9](https://polygonscan.com/address/0xe994481FB30f7d4e8063897AE5dC23d8dBe45dC9#code) |
+| **⏳ Vesting Wallet** | [0x3bbBe...1121](https://polygonscan.com/address/0x3bbBe45f60b314B1a045ec372Bf5eeF692Ed1121#code) |
+| **🔐 Treasury Lock (2y)** | [0x9cd82...C7CD](https://polygonscan.com/address/0x9cd824c2582D13741f1796D8F4473cE1a19cC7CD#code) |
+| **🔐 DAO Lock (1y)** | [0x97C46...B448](https://polygonscan.com/address/0x97C46A0B84d7e32b668bB8d966170BCd926dB448#code) |
+
+---
 
 ## Tech Stack & Tools
 
