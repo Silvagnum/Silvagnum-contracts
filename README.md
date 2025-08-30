@@ -25,8 +25,8 @@ Silvagnum is a project focused on creating a sustainable ecosystem of utilities 
 | **💧 Liquidity Manager** | [0x86093...13d7](https://polygonscan.com/address/0x860931ADc2bbF0B045f0f1bcd451EC088De613d7#code) |
 | **💸 Dividend Distributor**| [0xe9944...5dC9](https://polygonscan.com/address/0xe994481FB30f7d4e8063897AE5dC23d8dBe45dC9#code) |
 | **⏳ Vesting Wallet** | [0x3bbBe...1121](https://polygonscan.com/address/0x3bbBe45f60b314B1a045ec372Bf5eeF692Ed1121#code) |
-| **🔐 Treasury Lock (2y)** | [0x9cd82...C7CD](https://polygonscan.com/address/0x9cd824c2582D13741f1796D8F4473cE1a19cC7CD#code) |
-| **🔐 DAO Lock (1y)** | [0x97C46...B448](https://polygonscan.com/address/0x97C46A0B84d7e32b668bB8d966170BCd926dB448#code) |
+| **🔐 Silvagnumtimelock** | [0x9cd82...C7CD](https://polygonscan.com/address/0x9cd824c2582D13741f1796D8F4473cE1a19cC7CD#code) |
+
 
 ---
 
